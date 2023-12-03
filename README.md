@@ -7,19 +7,6 @@ Cloud`微`服务`化`开发平台`，具有统一授权、认证后台管理系�
 2.4.1`、`Spring Cloud (2020.0.0)`以及`Spring Cloud Alibaba 2.2.4`
 相关核心组件，采用`Nacos`注册和配置中心，集成流量卫兵`Sentinel`，前端采用`vue-element-admin`组件，`Elastic Search`自行集成。
 
-<<<<<<< HEAD
-=======
-### QQ群号：169824183(1)、592462556(2)、661605461(3)
-
-### 公众号
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1020/173334_53541846_547642.png "WX20201020-173326@2x.png")
-
-#### 开源用户登记，宣传用：[点击打开](https://gitee.com/geek_qi/cloud-platform/issues/II9SP)
-
-#### 最新更新日志，[点击查看](https://gitee.com/geek_qi/cloud-platform/wikis/Cloud-Platform更新日志?sort_id=320050)
-
-#### 基础文档，[点击查看](https://gitee.com/geek_qi/cloud-platform/blob/master/dev-doc.md)
->>>>>>> 6ded1ff95ff42ea037dd51c2e8bb5c80403a3ff9
 
 # 模块说明
 ![架构图](https://images.gitee.com/uploads/images/2019/0528/205306_9a8b8d83_1899222.png "1.png")
